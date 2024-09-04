@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './App.css';
@@ -46,7 +47,7 @@ function App() {
           <Route path="./esami/ESAME1" element={<ESAME1/>} />
           <Route path="./esami/ESAME2" element={<ESAME2/>} />
         </Routes>
-        PROVA
+        <li ><Link to="/">Home</Link></li>
       </div>
  </Router>
         
