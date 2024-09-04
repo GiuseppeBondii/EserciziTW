@@ -28,23 +28,23 @@ function App() {
 <Router>
       <div>
         <Routes>
-          <Route path="/" element={<Home/>} />
-          <Route path="/Tabella" element={<Tabella/>} />
-          <Route path="/Form" element={<Form/>} />
-          <Route path="/Immagine" element={<Immagine/>} />
-          <Route path="/Tipografia" element={<Tipografia/>} />
-          <Route path="/Posizionamento" element={<Posizionamento/>} />
-          <Route path="/Flexbox" element={<Flexbox/>} />
-          <Route path="/Boot" element={<Boot/>} />
-          <Route path="/Calendar" element={<Calendar/>} />
-          <Route path="/Fibonacci" element={<Fibonacci/>} />
-          <Route path="/DiceeChallenge/index.js" element={<DiceGame/>} />
-          <Route path="/ADVCSS" element={<ADVCSS/>} />
-          <Route path="/ImitImages" element={<ImitImages/>} />
-          <Route path="/Wapp" element={<Wapp/>} />
-          <Route path="/esami/HomeEsami" element={<HomeEsami/>} />
-          <Route path="/esami/ESAME1" element={<ESAME1/>} />
-          <Route path="/esami/ESAME2" element={<ESAME2/>} />
+          <Route path="./" element={<Home/>} />
+          <Route path="./Tabella" element={<Tabella/>} />
+          <Route path="./Form" element={<Form/>} />
+          <Route path="./Immagine" element={<Immagine/>} />
+          <Route path="./Tipografia" element={<Tipografia/>} />
+          <Route path="./Posizionamento" element={<Posizionamento/>} />
+          <Route path="./Flexbox" element={<Flexbox/>} />
+          <Route path="./Boot" element={<Boot/>} />
+          <Route path="./Calendar" element={<Calendar/>} />
+          <Route path="./Fibonacci" element={<Fibonacci/>} />
+          <Route path="./DiceeChallenge/index.js" element={<DiceGame/>} />
+          <Route path="./ADVCSS" element={<ADVCSS/>} />
+          <Route path="./ImitImages" element={<ImitImages/>} />
+          <Route path="./Wapp" element={<Wapp/>} />
+          <Route path="./esami/HomeEsami" element={<HomeEsami/>} />
+          <Route path="./esami/ESAME1" element={<ESAME1/>} />
+          <Route path="./esami/ESAME2" element={<ESAME2/>} />
         </Routes>
         PROVA
       </div>
