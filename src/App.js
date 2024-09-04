@@ -47,7 +47,6 @@ function App() {
           <Route path="./esami/ESAME1" element={<ESAME1/>} />
           <Route path="./esami/ESAME2" element={<ESAME2/>} />
         </Routes>
-        <li ><Link to="/">Home</Link></li>
       </div>
  </Router>
         
