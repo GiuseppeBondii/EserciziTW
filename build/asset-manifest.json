@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EserciziTW/static/css/main.c2e3b149.css",
+    "main.js": "/EserciziTW/static/js/main.badf12dd.js",
+    "static/js/453.19c1cd33.chunk.js": "/EserciziTW/static/js/453.19c1cd33.chunk.js",
+    "index.html": "/EserciziTW/index.html",
+    "main.c2e3b149.css.map": "/EserciziTW/static/css/main.c2e3b149.css.map",
+    "main.badf12dd.js.map": "/EserciziTW/static/js/main.badf12dd.js.map",
+    "453.19c1cd33.chunk.js.map": "/EserciziTW/static/js/453.19c1cd33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e3b149.css",
+    "static/js/main.badf12dd.js"
+  ]
+}
